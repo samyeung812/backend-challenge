@@ -77,9 +77,9 @@ POST /transactions/publish
 
 ##### Headers
 
-| Parameter         | Type     | Example            |
-|:------------------|:---------|:-------------------|
-| `Authorization`   | `String` | "Bearer <jwt>"     |
+| Parameter         | Type     | Example          |
+|:------------------|:---------|:-----------------|
+| `Authorization`   | `String` | "Bearer \<jwt\>" |
 
 ##### Request body
 
@@ -101,9 +101,9 @@ GET /transactions/get?date=05-2023&currency=USD
 
 ##### Headers
 
-| Parameter          | Type     | Example            |
-|:-------------------|:---------|:-------------------|
-| `Authorization`    | `String` | "Bearer <jwt>"     |
+| Parameter          | Type     | Example          |
+|:-------------------|:---------|:-----------------|
+| `Authorization`    | `String` | "Bearer \<jwt\>" |
 
 ##### Query parameters
 
